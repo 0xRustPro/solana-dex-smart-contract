@@ -24,4 +24,4 @@ It enables traders to benefit from deep liquidity, fast order matching, and effi
 - Settlement - Transactions are settled on-chain in a decentralized manner.
 
 ##  🚀Contact
-- Telegram: [caterpillardev] (https://t.me/Rust0x_dev)
+- Telegram: [Rust0x_dev] (https://t.me/Rust0x_dev)
